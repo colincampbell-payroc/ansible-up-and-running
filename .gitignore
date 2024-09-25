@@ -1,2 +1,5 @@
 # Ignore vagrant artifacts
 .vagrant/
+
+# Ignore venv files as a new venv will be created on each machine
+.venv/
